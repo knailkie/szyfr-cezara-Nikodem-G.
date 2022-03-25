@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Szyfr_Cezara
+namespace SzyfrCezara
 {
     class Program
     {
         static void Main(string[] args)
         {
-            foreach (var c in Console.ReadLine())
+            foreach (var nigga in Console.ReadLine())
             {
-                Console.Write(Convert.ToChar((c - 'a' + 1) % ('z' - 'a' + 1) + 'a'));
+                Console.Write(Convert.ToChar((nigga - 'a' + 3) % ('z' - 'a' + 3) + 'a'));
             }
             Console.WriteLine();
             Console.ReadKey(true);
