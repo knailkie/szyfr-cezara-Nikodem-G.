@@ -1,0 +1,15 @@
+C:\Users\3109724\Desktop\szyfr cezara ara ara\bin\Debug\net6.0\szyfr cezara ara ara.exe
+C:\Users\3109724\Desktop\szyfr cezara ara ara\bin\Debug\net6.0\szyfr cezara ara ara.deps.json
+C:\Users\3109724\Desktop\szyfr cezara ara ara\bin\Debug\net6.0\szyfr cezara ara ara.runtimeconfig.json
+C:\Users\3109724\Desktop\szyfr cezara ara ara\bin\Debug\net6.0\szyfr cezara ara ara.dll
+C:\Users\3109724\Desktop\szyfr cezara ara ara\bin\Debug\net6.0\szyfr cezara ara ara.pdb
+C:\Users\3109724\Desktop\szyfr cezara ara ara\obj\Debug\net6.0\szyfr cezara ara ara.csproj.AssemblyReference.cache
+C:\Users\3109724\Desktop\szyfr cezara ara ara\obj\Debug\net6.0\szyfr cezara ara ara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3109724\Desktop\szyfr cezara ara ara\obj\Debug\net6.0\szyfr cezara ara ara.AssemblyInfoInputs.cache
+C:\Users\3109724\Desktop\szyfr cezara ara ara\obj\Debug\net6.0\szyfr cezara ara ara.AssemblyInfo.cs
+C:\Users\3109724\Desktop\szyfr cezara ara ara\obj\Debug\net6.0\szyfr cezara ara ara.csproj.CoreCompileInputs.cache
+C:\Users\3109724\Desktop\szyfr cezara ara ara\obj\Debug\net6.0\szyfr cezara ara ara.dll
+C:\Users\3109724\Desktop\szyfr cezara ara ara\obj\Debug\net6.0\refint\szyfr cezara ara ara.dll
+C:\Users\3109724\Desktop\szyfr cezara ara ara\obj\Debug\net6.0\szyfr cezara ara ara.pdb
+C:\Users\3109724\Desktop\szyfr cezara ara ara\obj\Debug\net6.0\szyfr cezara ara ara.genruntimeconfig.cache
+C:\Users\3109724\Desktop\szyfr cezara ara ara\obj\Debug\net6.0\ref\szyfr cezara ara ara.dll
